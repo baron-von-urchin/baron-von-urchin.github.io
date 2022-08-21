@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+output: html_document
 ---
 
 ![](./images/SBI_Stipe_ascent.png)
