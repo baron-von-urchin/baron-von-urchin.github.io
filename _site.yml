@@ -1,0 +1,10 @@
+name: "baronvonurchin"
+navbar:
+  title: "Baron von Urchin"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Publications"
+      icon: fa-bookmark
+      href: "publications.html"

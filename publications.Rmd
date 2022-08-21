@@ -1,0 +1,7 @@
+---
+title: "Publications"
+---
+
+![](./images/SBI_Stipe_ascent.png)
+
+This is where I'll eventually add my publications...
