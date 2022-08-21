@@ -1,0 +1,7 @@
+blockquote {
+  font-style: italic
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+	content: "" !important; /* "&#xe258;" */
+}
