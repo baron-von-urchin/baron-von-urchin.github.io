@@ -8,3 +8,6 @@ navbar:
     - text: "Publications"
       icon: fa-bookmark
       href: "publications.html"
+    - text: "Frustration"
+      icon: fa-map
+      href: "frustration.html"
