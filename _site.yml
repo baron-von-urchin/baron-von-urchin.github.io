@@ -11,3 +11,14 @@ navbar:
     - text: "Frustration"
       icon: fa-map
       href: "frustration.html"
+output_dir: '.'
+output:
+  html_document:
+    # to avoid: [navbar-right flex css · Issue #316 · rstudio/flexdashboard](https://github.com/rstudio/flexdashboard/issues/316)
+    #   get latest: devtools::install_github("rstudio/bslib")
+    theme:
+      # using bootstrap 4 with https://rstudio.github.io/bslib
+      version: 4
+      # see themes at https://bootswatch.com
+      bootswatch: cerulean
+    css: styles.css  
