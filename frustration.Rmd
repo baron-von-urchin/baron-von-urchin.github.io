@@ -1,0 +1,6 @@
+---
+title: "Frustration"
+output: html_document
+---
+
+This is not a rant, this is just a tribute. 
