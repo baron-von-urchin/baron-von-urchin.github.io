@@ -8,9 +8,12 @@ navbar:
     - text: "Publications"
       icon: fa-bookmark
       href: "publications.html"
-    - text: "Frustration"
+    - text: "Curricul Vitae"
       icon: fa-map
-      href: "frustration.html"
+      href: "cv.html"
+    - text: "About" 
+      icon: fa-info
+      href: "about.html"
 output_dir: '.'
 output:
   html_document:
@@ -18,7 +21,7 @@ output:
     #   get latest: devtools::install_github("rstudio/bslib")
     theme:
       # using bootstrap 4 with https://rstudio.github.io/bslib
-      version: 4
+      version: 5
       # see themes at https://bootswatch.com
-      bootswatch: cerulean
-    css: styles.css  
+      bootswatch: sandstone
+    css: bootstrap.css
