@@ -1,9 +1,8 @@
 ---
-title: "Baron von Urchin"
 Description: |
   Welcome to Baron von Urchin's personal website
 ---
-![](./images/Sporophyll_Action.png)
+![](./images/banner.png)
 
 ## HOW YOU LIKE ME NOW GITHUB?!
 Eat a bag of dill pickles
