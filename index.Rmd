@@ -1,7 +1,10 @@
 ---
-Description: |
-  Welcome to Baron von Urchin's personal website
+title: "Home"
+output: html_document
 ---
+
+
+_Welcome to Baron von Urchin's personal website_
 ![](./images/banner.png)
 
 ## HOW YOU LIKE ME NOW GITHUB?!
