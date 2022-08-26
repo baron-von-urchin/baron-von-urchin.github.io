@@ -2,13 +2,44 @@
 title: "Curriculum vitae"
 output: html_document
 ---
-
-
+## 
+<font size = "5">
 [Click here to download my CV](./files/Spector_CV.pdf){target="_blank"}
 
+[For publications, click here](publications.html)
+</font>
+
 ## Web content:
+<div class="row g-2">
 
-Findinghal - a community science oriented project dedicated to white abalone
 
-<iframe src="https://findinghal.org/" title="Findinghal" data-external="1">
+<div class="col-sm-4">
+<font size = "5"> [Findinghal](https://findinghal.org) - a community-science project oriented towards the recovery of endangered white abalone
+</font>
+
+<iframe src="https://findinghal.org" 
+height="405" width="320" style="border: 1px solid #464646;"
+data-external="1">
 </iframe>
+</div> 
+
+<div class = "col-sm-4">
+<font size = "5"> Web-enabled Condition Reports - an easier way to access Condition Reports for [OCNMS](https://noaa-onms.github.io/ocnms/)
+</font>
+
+<iframe src="https://noaa-onms.github.io/ocnms/" 
+height="405" width="320" style="border: 1px solid #464646;" 
+data-external="1">
+</iframe>
+</div>
+
+
+<div class = "col-sm-4">
+<font size = "5"> Web-enabled Condition Reports - an easier way to access Condition Reports for [CINMS](https://noaa-onms.github.io/cinms/)
+</font>
+
+<iframe src="https://noaa-onms.github.io/cinms/" 
+height="405" width="320" style="border: 1px solid #464646;" 
+data-external="1">
+</iframe>
+</div>
