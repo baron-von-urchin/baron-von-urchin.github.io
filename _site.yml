@@ -8,6 +8,9 @@ navbar:
     - text: "Publications"
       icon: fa-bookmark
       href: "publications.html"
+    - text: "Coding examples"
+      icon: fa-code
+      href: "404.html"
     - text: "Curricul Vitae"
       icon: fa-map
       href: "cv.html"
@@ -23,5 +26,5 @@ output:
       # using bootstrap 4 with https://rstudio.github.io/bslib
       version: 5
       # see themes at https://bootswatch.com
-      bootswatch: sandstone
+      bootswatch: cerulean
     css: bootstrap.css

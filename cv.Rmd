@@ -1,6 +1,14 @@
 ---
-title: "cv"
+title: "Curriculum vitae"
 output: html_document
 ---
 
-_This is where my cv goes lol_
+
+[Click here to download my CV](./files/Spector_CV.pdf){target="_blank"}
+
+## Web content:
+
+Findinghal - a community science oriented project dedicated to white abalone
+
+<iframe src="https://findinghal.org/" title="Findinghal" data-external="1">
+</iframe>

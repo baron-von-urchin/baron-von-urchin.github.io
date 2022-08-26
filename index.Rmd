@@ -2,10 +2,39 @@
 title: "Home"
 output: html_document
 ---
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 
+![](./images/banner.png){width=150%}
 
-_Welcome to Baron von Urchin's personal website_
-![](./images/banner.png)
+*** 
 
-## HOW YOU LIKE ME NOW GITHUB?!
-Eat a bag of dill pickles
+## Welcome to Baron von Urchin's personal website
+
+<img align="left" width="200" height="250" style="padding-right: 20px" src="/Users/PikesStuff/github/baron-von-urchin.github.io/images/head.png">
+</img>
+
+<font size = "5"> I am currently a marine scientist with [NOAA Olympic Coast National Marine Sanctuary](https://olympiccoast.noaa.gov/). In my day job, I supports research operations and data management for the sanctuary. Trained in kelp forest ecology, my passion is for marine ecology, conservation, restoration, and open access to information. 
+<br>
+
+For more information, visit the [About page](about.html) </font>
+
+<br>
+
+## On this site you can find links to my:
+<font size= "5"> 
+
+1. [Publications](publications.html)
+2. [Curriculum vitae](cv.html)
+3. ~~[Example code](blank.html)~~ *page under construction*
+4. ["About me" page](about.html)
+
+</font>
+
+***
+
+#### More resources:
+* Check out [my twitter feed](https://twitter.com/BaronvonUrchin) `r fa(name = "twitter")` for more sci-comm!
+* For code, projects, and repos, check out my [Github profile](https://github.com/mspector13)
+* For more information about my previous experience in graduate school, check out [Lower Case Science](https://lowercasescience.weebly.com/), my deprecated science communication blog
