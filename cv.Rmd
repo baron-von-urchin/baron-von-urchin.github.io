@@ -4,7 +4,7 @@ output: html_document
 ---
 ## 
 <font size = "5">
-[Click here to download my CV](./files/Spector_CV.pdf){target="_blank"}
+[Click here to download my CV](./files/Spector_resume.pdf){target="_blank"}
 
 [For publications, click here](publications.html)
 </font>
