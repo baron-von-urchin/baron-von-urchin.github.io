@@ -3,15 +3,55 @@ title: "Coding examples"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+library(tidyverse)
 ```
+
+## <font color = "#2596be"> Web content </font>
+<font size = "4"> Here are three examples of websites I've helped develop and build. These projects all include components of community engagement, science communication, and resource protection
+</font>
+
+
+<div class="row g-2">
+
+
+<div class="col-sm-4">
+<font size = "4"> [Findinghal](https://findinghal.org) - a community-science project oriented towards the recovery of endangered white abalone
+</font>
+
+<iframe src="https://findinghal.org" 
+height="405" width="320" style="border: 1px solid #464646;"
+data-external="1">
+</iframe>
+</div> 
+
+<div class = "col-sm-4">
+<font size = "4"> Web-enabled Condition Reports - an easier way to access Condition Reports for [OCNMS](https://noaa-onms.github.io/ocnms/)
+</font>
+
+<iframe src="https://noaa-onms.github.io/ocnms/" 
+height="405" width="320" style="border: 1px solid #464646;" 
+data-external="1">
+</iframe>
+</div>
+
+
+<div class = "col-sm-4">
+<font size = "4"> Web-enabled Condition Reports - an easier way to access Condition Reports for [CINMS](https://noaa-onms.github.io/cinms/)
+</font>
+
+<iframe src="https://noaa-onms.github.io/cinms/" 
+height="405" width="320" style="border: 1px solid #464646;" 
+data-external="1">
+</iframe>
+</div>
 
 ## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+~~This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.~~
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+~~When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:~~
 
 ```{r cars}
 summary(cars)
@@ -26,3 +66,12 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+***
+
+#### More resources:
+`r fa(name="twitter")` Check out [my twitter feed](https://twitter.com/BaronvonUrchin)  for more sci-comm!
+
+`r fa(name="github")` For code, projects, and repos, check out my [Github profile](https://github.com/mspector13)
+
+`r fa(name="laptop")` For more information about my previous experience in graduate school, check out [Lower Case Science](https://lowercasescience.weebly.com/), my deprecated science communication blog 

@@ -2,6 +2,10 @@
 title: "Curriculum vitae"
 output: html_document
 ---
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
 ## 
 <font size = "5">
 [Click here to download my CV](./files/Spector_resume.pdf){target="_blank"}
@@ -9,37 +13,11 @@ output: html_document
 [For publications, click here](publications.html)
 </font>
 
-## Web content:
-<div class="row g-2">
 
 
-<div class="col-sm-4">
-<font size = "5"> [Findinghal](https://findinghal.org) - a community-science project oriented towards the recovery of endangered white abalone
-</font>
+#### More resources:
+`r fa(name="twitter")` Check out [my twitter feed](https://twitter.com/BaronvonUrchin)  for more sci-comm!
 
-<iframe src="https://findinghal.org" 
-height="405" width="320" style="border: 1px solid #464646;"
-data-external="1">
-</iframe>
-</div> 
+`r fa(name="github")` For code, projects, and repos, check out my [Github profile](https://github.com/mspector13)
 
-<div class = "col-sm-4">
-<font size = "5"> Web-enabled Condition Reports - an easier way to access Condition Reports for [OCNMS](https://noaa-onms.github.io/ocnms/)
-</font>
-
-<iframe src="https://noaa-onms.github.io/ocnms/" 
-height="405" width="320" style="border: 1px solid #464646;" 
-data-external="1">
-</iframe>
-</div>
-
-
-<div class = "col-sm-4">
-<font size = "5"> Web-enabled Condition Reports - an easier way to access Condition Reports for [CINMS](https://noaa-onms.github.io/cinms/)
-</font>
-
-<iframe src="https://noaa-onms.github.io/cinms/" 
-height="405" width="320" style="border: 1px solid #464646;" 
-data-external="1">
-</iframe>
-</div>
+`r fa(name="laptop")` For more information about my previous experience in graduate school, check out [Lower Case Science](https://lowercasescience.weebly.com/), my deprecated science communication blog 

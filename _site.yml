@@ -10,8 +10,8 @@ navbar:
       href: "publications.html"
     - text: "Coding examples"
       icon: fa-code
-      href: "404.html"
-    - text: "Curricul Vitae"
+      href: "code.html"
+    - text: "Curriculum Vitae"
       icon: fa-map
       href: "cv.html"
     - text: "About" 
@@ -26,5 +26,7 @@ output:
       # using bootstrap 4 with https://rstudio.github.io/bslib
       version: 5
       # see themes at https://bootswatch.com
-      bootswatch: cerulean
+      bootswatch: sandstone
+    include: 
+      #in_header: "_google-analytics.html" TODO
     css: bootstrap.css

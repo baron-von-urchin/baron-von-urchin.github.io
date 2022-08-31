@@ -2,8 +2,20 @@
 title: "Publications"
 output: html_document
 ---
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 
 ![](./images/SBI_Stipe_ascent.png)
 
 This is where I'll eventually add my publications...
 One day, I guess
+
+***
+
+#### More resources:
+`r fa(name="twitter")` Check out [my twitter feed](https://twitter.com/BaronvonUrchin)  for more sci-comm!
+
+`r fa(name="github")` For code, projects, and repos, check out my [Github profile](https://github.com/mspector13)
+
+`r fa(name="laptop")` For more information about my previous experience in graduate school, check out [Lower Case Science](https://lowercasescience.weebly.com/), my deprecated science communication blog 
