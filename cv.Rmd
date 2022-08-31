@@ -6,13 +6,79 @@ output: html_document
 library(fontawesome)
 ```
 
-## 
-<font size = "5">
-[Click here to download my CV](./files/Spector_resume.pdf){target="_blank"}
-
-[For publications, click here](publications.html)
+<font size = "5" font color = "#2596be">
+ [Click here to download my CV](./files/Spector_resume.pdf){target="_blank"}
+      | [For publications, click here](publications.html)
 </font>
 
+
+## `r fa(name="graduation-cap")` <font color = "#2596be"> Education </font>
+
+### San Diego State University
+2015 - 2018
+Master of Science in Biology (focus in ecology)
+
+Advisor: Dr. Matthew Edwards
+
+Thesis: _Speaking for the Understory: Quantifying the Loss of Benthic Production on Temperate Rocky Reefs_
+
+### University of California Santa Cruz
+2008 - 2015
+Bachelor of Science in Marine Biology
+
+
+
+## `r fa(name="briefcase")` <font color = "#2596be"> Professional Experience </font>
+### Marine Scientist - NOAA Olympic Coast National Marine Sanctuary
+2022 - Present
+
+- Facilitate and support moorings operations within Olympic Islands NMS
+- Facilitate and support other sanctuary research initiatives
+- Support sanctuary planning and logistics
+- Technical report writing
+- Data collection, curation, visualization, and database management 
+- Creation and curation of Web-enabled Condition Reports
+
+### Research Operations Specialist - Cardinal Point Captains Inc. 
+2020 - 2021
+
+- Contractor with Channel Islands National Marine Sanctuary
+- Facilitated and support research operations for Channel Islands NMS 
+- Technical report writing
+- Contributed to the publication of scientific papers
+- Data collection, curation, and database management
+- Creation and curation of Web-enabled Condition Report
+
+### California Sea Grant State Fellow
+2019 - 2020
+
+- Post-graduate agency fellow with Channel Islands National Marine Sanctuary 
+- Supported Sanctuary outreach and education
+- Supported and facilitate the Sanctuary Advisory Council 
+- Preliminary drafting of sanctuary management plans
+
+
+### NOAA Catch-Shares Fishery Observer - Alaska Observers Inc. 
+2013 - 2014
+
+- West Coast Groundfish Fishery observer
+- Identified, counted, and enumerated bycatch at sea on commercial fishing vessels
+- Monitored dockside offload of retained fishes
+
+## `r fa(name="flask")` <font color = "#2596be"> Research Experience </font>
+### Graduate Research Assistant - San Diego State University
+2016 - 2018
+
+- Helped design and execute a subtidal experiment in kelp forests, urchin barrens, and transitions zones spanning the Aleutian Archipelago (2016-17)
+- Contributed to the analysis of data collected from field and ship-board experiments
+- Contributed to the publication of this work
+
+### National Park Service dive intern - Our World Underwater Scholarship Society®
+Summer 2015
+
+- Further developed SCUBA skill set (e.g, decompression diving, drysuit etc.) 
+- Participated on research projects 
+- Served as a liaison between the across the National Park Service public and Park Service staff system
 
 
 #### More resources:
