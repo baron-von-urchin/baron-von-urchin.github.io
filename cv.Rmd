@@ -11,10 +11,11 @@ library(fontawesome)
       | [For publications, click here](publications.html)
 </font>
 
+## {.tabset}
 
-## `r fa(name="graduation-cap")` <font color = "#2596be"> Education </font>
+### `r fa(name="graduation-cap")` <font color = "#2596be"> Education </font>
 
-### San Diego State University
+#### San Diego State University
 2015 - 2018
 Master of Science in Biology (focus in ecology)
 
@@ -22,14 +23,16 @@ Advisor: Dr. Matthew Edwards
 
 Thesis: _Speaking for the Understory: Quantifying the Loss of Benthic Production on Temperate Rocky Reefs_
 
-### University of California Santa Cruz
+#### University of California Santa Cruz
 2008 - 2015
 Bachelor of Science in Marine Biology
 
+Undergraduate advisors: Drs. Pete Raimondi, Mark Carr, Giacomo Bernardi
 
+Thesis: _Sand scour affects the distribution of subtidal barnacle on rocky reefs at Hopkins Marine Station_
 
-## `r fa(name="briefcase")` <font color = "#2596be"> Professional Experience </font>
-### Marine Scientist - NOAA Olympic Coast National Marine Sanctuary
+### `r fa(name="briefcase")` <font color = "#2596be"> Professional Experience </font>
+#### Marine Scientist - NOAA Olympic Coast National Marine Sanctuary
 2022 - Present
 
 - Facilitate and support moorings operations within Olympic Islands NMS
@@ -39,7 +42,7 @@ Bachelor of Science in Marine Biology
 - Data collection, curation, visualization, and database management 
 - Creation and curation of Web-enabled Condition Reports
 
-### Research Operations Specialist - Cardinal Point Captains Inc. 
+#### Research Operations Specialist - Cardinal Point Captains Inc. 
 2020 - 2021
 
 - Contractor with Channel Islands National Marine Sanctuary
@@ -49,7 +52,7 @@ Bachelor of Science in Marine Biology
 - Data collection, curation, and database management
 - Creation and curation of Web-enabled Condition Report
 
-### California Sea Grant State Fellow
+#### California Sea Grant State Fellow
 2019 - 2020
 
 - Post-graduate agency fellow with Channel Islands National Marine Sanctuary 
@@ -58,28 +61,48 @@ Bachelor of Science in Marine Biology
 - Preliminary drafting of sanctuary management plans
 
 
-### NOAA Catch-Shares Fishery Observer - Alaska Observers Inc. 
+#### NOAA Catch-Shares Fishery Observer - Alaska Observers Inc. 
 2013 - 2014
 
 - West Coast Groundfish Fishery observer
 - Identified, counted, and enumerated bycatch at sea on commercial fishing vessels
 - Monitored dockside offload of retained fishes
 
-## `r fa(name="flask")` <font color = "#2596be"> Research Experience </font>
-### Graduate Research Assistant - San Diego State University
+### `r fa(name="flask")` <font color = "#2596be"> Research Experience </font>
+#### Graduate Research Assistant - San Diego State University
 2016 - 2018
 
 - Helped design and execute a subtidal experiment in kelp forests, urchin barrens, and transitions zones spanning the Aleutian Archipelago (2016-17)
 - Contributed to the analysis of data collected from field and ship-board experiments
 - Contributed to the publication of this work
 
-### National Park Service dive intern - Our World Underwater Scholarship Society®
+#### National Park Service dive intern - Our World Underwater Scholarship Society®
 Summer 2015
 
 - Further developed SCUBA skill set (e.g, decompression diving, drysuit etc.) 
 - Participated on research projects 
 - Served as a liaison between the across the National Park Service public and Park Service staff system
 
+### `r fa(name="school")` <font color = "#2596be"> Teaching Experience </font>
+#### Principles of Organismal Biology (lab) - San Diego State University
+2015 - 2018
+
+- Instructor for organismal / evolutionary biology lab
+- Wrote and administered lectures for undergradaute lab
+- Provided instructional support for laboratory assignments
+- Wrote, administered, and graded quizzes and exams
+
+#### Tutor / supplemental educational support
+2010 - 2012 
+
+- Tutor for UCSC Modified Supplemental Instruction
+- Provided one-on-on and group tutoring sessions for upper division
+Ecology and Biology of Reefs, Mangroves, and Seagrasses courses 
+- Worked with professors to tailor tutoring sessions to student’s needs
+
+## {.toc-ignore}
+
+***
 
 #### More resources:
 `r fa(name="twitter")` Check out [my twitter feed](https://twitter.com/BaronvonUrchin)  for more sci-comm!
