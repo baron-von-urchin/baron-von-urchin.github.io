@@ -16,7 +16,7 @@ navbar:
       href: "cv.html"
     - text: "About" 
       icon: fa-info
-      href: "About.html"
+      href: "about_me.html"
 output_dir: '.'
 output:
   html_document:
