@@ -6,6 +6,8 @@ output: html_document
 library(fontawesome)
 ```
 
+![](./images/seniorita_banner.jpg)
+
 <font size = "5" font color = "#2596be">
  [Click here to download my CV](./files/Spector_resume.pdf){target="_blank"}
       | [For publications, click here](publications.html)

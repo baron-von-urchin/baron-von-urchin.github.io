@@ -11,7 +11,7 @@ library(fontawesome)
 
 ***
 
-<img align="left" width="400" height="300" style="padding-right: 20px" src="/Users/PikesStuff/github/baron-von-urchin.github.io/images/about_image.jpg">
+<img align="left" width="300" height="400" style="padding-right: 20px" src="/Users/PikesStuff/github/baron-von-urchin.github.io/images/witch_butter.jpg">
 </img>
 
 <font size = "4" > 

@@ -6,6 +6,8 @@ output: html_document
 library(fontawesome)
 ```
 
+![](./images/oceanus_banner.jpeg)
+
 ## {.tabset}
 
 ### `r fa(name="book")` <font color = "#2596be"> Peer-reviewed publications </font>

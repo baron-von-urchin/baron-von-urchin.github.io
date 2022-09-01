@@ -3,6 +3,8 @@ title: "Coding examples"
 output: html_document
 ---
 
+![](./images/intertidal_banner.jpg)
+
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
 library(fontawesome)
 library(tidyverse)
