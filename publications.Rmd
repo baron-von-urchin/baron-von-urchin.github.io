@@ -14,13 +14,15 @@ library(fontawesome)
 
 #### 2022
 - <p>Network analysis reveals aggregation behaviour of a historically overfished predator at an offshore island.<br>
-  Journal of Fish Biology: https://doi.org/10.1111/jfb.15181.<br>
-  **Spector M.**, Clevenstine A., Caldow C., Cajandig M., Duncan, L., Peavy-
+  Journal of Fish Biology: https://doi.org/10.1111/jfb.15181<br>
+  **Spector M.**ª, Clevenstine A.ª, Caldow C., Cajandig M., Duncan, L., Peavy-
 Reeves L., and Freedman R. </p>
+
+  <font size = "2"> ªBoth authors contributed equally to this paper </font>
 
 #### 2021
 - <p>Webenizing Condition Reports: communicating data-driven ecosystem indicators in a visually engaging and interactive online platform.<br>
-  [Sanctuary Conservation Series](https://sanctuaries.noaa.gov/science/conservation/webenizing-condition-reports.html)<br>
+  [Sanctuary Conservation Series](https://sanctuaries.noaa.gov/science/conservation/webenizing-condition-reports.html){target="blank"}<br>
   **Spector M.**, Best B., Raganathan J., Murray T., Caldow C., Brown J., Canonico G., and DeVogelaere A.</p>
 
 #### 2020
@@ -36,14 +38,14 @@ Reeves L., and Freedman R. </p>
 
 #### 2020
 - <p>A safe haven in a changing world: Can Channel Islands National Marine Sanctuary Serve as a Local Refuge Against Ocean Acidification?<br>
-  [Office of National Marine Sanctuaries - Webstory](https://sanctuaries.noaa.gov/news/feb20/channel-islands-ocean-acidification-refuge.html)</p>
+  [Office of National Marine Sanctuaries - Webstory](https://sanctuaries.noaa.gov/news/feb20/channel-islands-ocean-acidification-refuge.html){target="blank"}</p>
 
 #### 2019
 - <p>Dis-Aleutianed: Where the Wild Winds Blow<br>
-  [The Xylom](https://www.thexylom.com/post/dis-aleutianed-where-the-wild-winds-blow-1?fbclid=IwAR32kmyhM3OeAEWDpp8RXg4dXcJT53sT3NBgWwDAc_lS-nFP8hgBdGCy_KU)</p>
+  [The Xylom](https://www.thexylom.com/post/dis-aleutianed-where-the-wild-winds-blow-1?fbclid=IwAR32kmyhM3OeAEWDpp8RXg4dXcJT53sT3NBgWwDAc_lS-nFP8hgBdGCy_KU){target="blank"}</p>
 
 - <p>We’re gonna need a bigger boat: Gentle giants return to Channel Islands National Marine Sanctuary.<br>
-  [Office of National Marine Sanctuaries - Webstory](https://sanctuaries.noaa.gov/news/may19/basking-shark-tagging-channel-islands-national-marine-sanctuary.html)</p>
+  [Office of National Marine Sanctuaries - Webstory](https://sanctuaries.noaa.gov/news/may19/basking-shark-tagging-channel-islands-national-marine-sanctuary.html){target="blank"}</p>
   
 ## {.toc-ignore}
 
