@@ -127,8 +127,8 @@ Ecology and Biology of Reefs, Mangroves, and Seagrasses courses
 ***
 
 #### More resources:
-`r fa(name="twitter")` Check out [my twitter feed](https://twitter.com/BaronvonUrchin)  for more sci-comm!
+`r fa(name="twitter")` Check out [my twitter feed](https://twitter.com/BaronvonUrchin){target="blank"}  for more sci-comm!
 
-`r fa(name="github")` For code, projects, and repos, check out my [Github profile](https://github.com/mspector13)
+`r fa(name="github")` For code, projects, and repos, check out my [Github profile](https://github.com/mspector13){target="blank"}
 
-`r fa(name="laptop")` For more information about my previous experience in graduate school, check out [Lower Case Science](https://lowercasescience.weebly.com/), my deprecated science communication blog 
+`r fa(name="laptop")` For more information about my previous experience in graduate school, check out [Lower Case Science](https://lowercasescience.weebly.com/){target="blank"}, my deprecated science communication blog 
