@@ -14,7 +14,7 @@ library(fontawesome)
 
 #### 2022
 - <p>Network analysis reveals aggregation behaviour of a historically overfished predator at an offshore island.<br>
-  Journal of Fish Biology: https://doi.org/10.1111/jfb.15181<br>
+  Journal of Fish Biology: [https://doi.org/10.1111/jfb.15181](https://doi.org/10.1111/jfb.15181){target="blank"}<br>
   **Spector M.**ª, Clevenstine A.ª, Caldow C., Cajandig M., Duncan, L., Peavy-
 Reeves L., and Freedman R. </p>
 
@@ -27,11 +27,11 @@ Reeves L., and Freedman R. </p>
 
 #### 2020
 - <p>Modeling the impacts of kelp deforestation on benthic primary production.<br>
-  Algae: https://doi.org/10.4490/algae.2020.35.8.19<br>
+  Algae: [https://doi.org/10.4490/algae.2020.35.8.19](https://doi.org/10.4490/algae.2020.35.8.19){target="blank"}<br>
   **Spector M.** and M Edwards </p>
 
 - <p>Marine deforestation leads to widespread loss of ecosystem function <br>
-  PLoS ONE: https://doi.org/10.1371/journal.pone.0226173 <br>
+  PLoS ONE: [https://doi.org/10.1371/journal.pone.0226173](https://doi.org/10.1371/journal.pone.0226173){target="blank"} <br>
   Edwards M., Konar B., Kim J-H., Gabara S., Sullaway G., McHugh T., **Spector M.**, and S Small.</p>
 
 ### `r fa(name="comments")`<font color = "#2596be"> Science Communication </font>
