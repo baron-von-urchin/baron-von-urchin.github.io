@@ -6,9 +6,6 @@ output: html_document
 library(fontawesome)
 ```
 
-## <font color="red"> Warning - website currently under constuction </font>
-Looks like you've stumbled upon my WIP-site. Please be patient as I get this place up and going!
-
 ![](./images/banner.png){width=150%}
 
 *** 
@@ -18,20 +15,20 @@ Looks like you've stumbled upon my WIP-site. Please be patient as I get this pla
 <img align="left" width="200" height="250" style="padding-right: 20px" src="/Users/PikesStuff/github/baron-von-urchin.github.io/images/front_image.png">
 </img>
 
-<font size = "5"> I am currently a marine scientist with [NOAA Olympic Coast National Marine Sanctuary](https://olympiccoast.noaa.gov/). In my day job, I support research operations and data management for the sanctuary. Trained in kelp forest ecology, my passion is for marine ecology, conservation, restoration, and open access to information. 
+<font size = "5"> I am currently a marine scientist with [NOAA Olympic Coast National Marine Sanctuary](https://olympiccoast.noaa.gov/). In my day job, I support research operations and data management for the sanctuary. Trained in kelp forest ecology, I'm passionate about marine ecology, conservation, restoration, and open data science.
+
 <br>
 
 For more information, visit the [About page](about.html) </font>
 
 <br>
 
-## On this site you can find links to my: </font>
+## On this site you can also find links to my: </font>
 <font size= "5"> 
 
 1. [Publications](publications.html)
 2. [Curriculum vitae](cv.html)
 3. [Example code](code.html)
-4. [About page](about.html)
 
 </font>
 
