@@ -13,7 +13,10 @@ library(fontawesome)
 
 ## {.tabset}
 
+
 ### `r fa(name="graduation-cap")` <font color = "#2596be"> Education </font>
+
+<font size = "4">
 
 #### San Diego State University
 2015 - 2018
@@ -31,7 +34,12 @@ Undergraduate advisors: Drs. Pete Raimondi, Mark Carr, Giacomo Bernardi
 
 Thesis: _Sand scour affects the distribution of subtidal barnacle on rocky reefs at Hopkins Marine Station_
 
+</font>
+
 ### `r fa(name="briefcase")` <font color = "#2596be"> Professional Experience </font>
+
+<font size = "4">
+
 #### Marine Scientist - NOAA Olympic Coast National Marine Sanctuary
 2022 - Present
 
@@ -68,7 +76,12 @@ Thesis: _Sand scour affects the distribution of subtidal barnacle on rocky reefs
 - Identified, counted, and enumerated bycatch at sea on commercial fishing vessels
 - Monitored dockside offload of retained fishes
 
+</font>
+
 ### `r fa(name="flask")` <font color = "#2596be"> Research Experience </font>
+
+<font size = "4">
+
 #### Graduate Research Assistant - San Diego State University
 2016 - 2018
 
@@ -83,7 +96,12 @@ Summer 2015
 - Participated on research projects 
 - Served as a liaison between the across the National Park Service public and Park Service staff system
 
+</font>
+
 ### `r fa(name="school")` <font color = "#2596be"> Teaching Experience </font>
+
+<font size = "4">
+
 #### Principles of Organismal Biology (lab) - San Diego State University
 2015 - 2018
 
@@ -99,6 +117,8 @@ Summer 2015
 - Provided one-on-on and group tutoring sessions for upper division
 Ecology and Biology of Reefs, Mangroves, and Seagrasses courses 
 - Worked with professors to tailor tutoring sessions to student’s needs
+
+</font>
 
 ## {.toc-ignore}
 
