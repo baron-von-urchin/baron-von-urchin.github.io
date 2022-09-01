@@ -14,11 +14,8 @@ navbar:
     - text: "Curriculum Vitae"
       icon: fa-map
       href: "cv.html"
-    - text: "About" 
+    - text: "About"
       icon: fa-info
-      href: "about_me.html"
-    - text: "FUCK YOU GITHUB"
-      icon: fa-dumpster-fire
       href: "about_me.html"
 output_dir: '.'
 output:
