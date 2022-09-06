@@ -6,7 +6,7 @@ output: html_document
 library(fontawesome)
 ```
 
-![](./images/Sporophyll_banner.png)
+![](./images/banner.png)
 <br>
 
 ***
