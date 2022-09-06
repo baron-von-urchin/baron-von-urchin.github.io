@@ -9,44 +9,51 @@ output: html_document
 library(fontawesome)
 library(tidyverse)
 ```
+
+
 ## {.tabset}
+
 ### `r fa(name="desktop")` <font color = "#2596be"> Web content </font>
-<font size = "4"> Here are three examples of websites I've helped develop and build. These projects all include components of community engagement, science communication, and resource protection
+<font size = "4"> Below are three examples of websites I've helped develop and build. These projects all include components of community engagement, science communication, and resource protection
 </font>
 
+<br>
 
 <div class="row g-2">
 
 
-<div class="col-sm-4">
-<font size = "4"> [Findinghal](https://findinghal.org) - a community-science project oriented towards the recovery of endangered white abalone
+<div class="col-sm-6">
+<font size = "4"> [Findinghal](https://findinghal.org){target="blank"} - a community-science project oriented towards the recovery of endangered white abalone
 </font>
 
-<iframe src="https://findinghal.org" 
+<center><iframe src="https://findinghal.org" 
 height="405" width="320" style="border: 1px solid #464646;"
 data-external="1">
 </iframe>
+</center>
 </div> 
 
-<div class = "col-sm-4">
-<font size = "4"> Web-enabled Condition Reports - an easier way to access Condition Reports for [OCNMS](https://noaa-onms.github.io/ocnms/)
+<div class = "col-sm-6">
+<font size = "4"> Web-enabled Condition Reports - an easier way to access Condition Reports for [OCNMS](https://noaa-onms.github.io/ocnms/){target="blank"}
 </font>
 
-<iframe src="https://noaa-onms.github.io/ocnms/" 
+<center><iframe src="https://noaa-onms.github.io/ocnms/rocky-shore.html" 
 height="405" width="320" style="border: 1px solid #464646;" 
 data-external="1">
 </iframe>
+</center>
 </div>
 
 
-<div class = "col-sm-4">
-<font size = "4"> Web-enabled Condition Reports - an easier way to access Condition Reports for [CINMS](https://noaa-onms.github.io/cinms/)
+<div class = "col-sm-6">
+<font size = "4"> Web-enabled Condition Reports - an easier way to access Condition Reports for [CINMS](https://noaa-onms.github.io/cinms/){target="blank"}
 </font>
 
-<iframe src="https://noaa-onms.github.io/cinms/" 
+<center><iframe src="https://noaa-onms.github.io/cinms/kelp-forest.html" 
 height="405" width="320" style="border: 1px solid #464646;" 
 data-external="1">
 </iframe>
+</center>
 </div>
 
 ### `r fa(name="dumpster-fire")`<font color = "#2596be"> ~~RepRex examples~~ *still under construction* </font>
