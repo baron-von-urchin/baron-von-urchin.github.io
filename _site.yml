@@ -27,6 +27,6 @@ output:
       version: 5
       # see themes at https://bootswatch.com
       bootswatch: sandstone
-    include: 
-      #in_header: "_google-analytics.html" TODO
+include: 
+      in_header: "_google-analytics.html"
     css: bootstrap.css
