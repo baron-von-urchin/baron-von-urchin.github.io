@@ -58,6 +58,8 @@ data-external="1">
 
 ### `r fa(name="dumpster-fire")`<font color = "#2596be"> ~~RepRex examples~~ *still under construction* </font>
 
+The text/figures below are the default examples from an Rmarkdown template script. In the coming weeks, I plan to add my own reprex (i.e. reproducible example) code and figures from my recent publications. Please bear with me as I figure out the most streamlined way to do this! 
+
 ~~This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.~~
 
 ~~When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:~~
