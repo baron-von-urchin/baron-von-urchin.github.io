@@ -26,7 +26,7 @@ output:
       # using bootstrap 4 with https://rstudio.github.io/bslib
       version: 5
       # see themes at https://bootswatch.com
-      bootswatch: sandstone
+      bootswatch: cerulean
 include: 
-      in_header: "_google-analytics.html"
+    in_header: "_google-analytics.html"
     css: bootstrap.css
