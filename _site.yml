@@ -2,9 +2,12 @@ name: "baron-von-urchin"
 navbar:
   title: "Baron von Urchin"
   left:
-    # - text: "Home"
-    #   icon: fa-home
-    #   href: index.html
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Research"
+      icon: fa-vial
+      href: "research.html"
     - text: "Publications"
       icon: fa-bookmark
       href: "publications.html"
@@ -26,8 +29,8 @@ output:
       # using bootstrap 4 with https://rstudio.github.io/bslib
       version: 5
       # see themes at https://bootswatch.com
-      bootswatch: flatly
+      bootswatch: zephyr
     include: 
       after_body: "_google-analytics.html"
       #after_body: feets.html
-    css: bootstrap.css  
+    # css: bootstrap.css  

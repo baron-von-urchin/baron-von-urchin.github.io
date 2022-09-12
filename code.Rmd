@@ -14,69 +14,32 @@ library(tidyverse)
 ## {.tabset}
 
 ### `r fa(name="desktop")` <font color = "#2596be"> Web content </font>
-<font size = "4"> Below are three examples of websites I've helped develop and build. These projects all include components of community engagement, science communication, and resource protection
-</font>
+`r fa(name = "hand-point-down")` Click on the dropdown below to navigate to three different  examples of websites I've helped develop and build. These projects all include components of community engagement, science communication, and resource protection
 
-<br>
+#### {.tabset .tabset-dropdown}
 
-<div class="row g-2">
+##### Finding Hal {.active}
+[Findinghal](https://findinghal.org){target="blank"} - a community-science project oriented towards the recovery of endangered white abalone
 
+![](./images/Finding_hal.png)
 
-<div class="col-sm-6">
-<font size = "4"> [Findinghal](https://findinghal.org){target="blank"} - a community-science project oriented towards the recovery of endangered white abalone
-</font>
+##### CINMS
 
-<center><iframe src="https://findinghal.org" 
-height="405" width="320" style="border: 1px solid #464646;"
-data-external="1">
-</iframe>
-</center>
-</div> 
+Web-enabled Condition Reports - an easier way to access Condition Reports for [CINMS](https://noaa-onms.github.io/cinms/){target="blank"}
 
-<div class = "col-sm-6">
-<font size = "4"> Web-enabled Condition Reports - an easier way to access Condition Reports for [OCNMS](https://noaa-onms.github.io/ocnms/){target="blank"}
-</font>
-
-<center><iframe src="https://noaa-onms.github.io/ocnms/rocky-shore.html" 
-height="405" width="320" style="border: 1px solid #464646;" 
-data-external="1">
-</iframe>
-</center>
-</div>
+![](./images/CINMS_kelp.png)
 
 
-<div class = "col-sm-6">
-<font size = "4"> Web-enabled Condition Reports - an easier way to access Condition Reports for [CINMS](https://noaa-onms.github.io/cinms/){target="blank"}
-</font>
+##### OCNMS
 
-<center><iframe src="https://noaa-onms.github.io/cinms/kelp-forest.html" 
-height="405" width="320" style="border: 1px solid #464646;" 
-data-external="1">
-</iframe>
-</center>
-</div>
+Web-enabled Condition Reports - an easier way to access Condition Reports for [OCNMS](https://noaa-onms.github.io/ocnms/){target="blank"}
+
+![](./images/OCNMS_rocky.png)
 
 ### `r fa(name="dumpster-fire")`<font color = "#2596be"> ~~RepRex examples~~ *still under construction* </font>
 
-The text/figures below are the default examples from an Rmarkdown template script. In the coming weeks, I plan to add my own reprex (i.e. reproducible example) code and figures from my recent publications. Please bear with me as I figure out the most streamlined way to do this! 
+In the coming weeks, I plan to add my own reprex (i.e. reproducible example) code and figures from my recent publications. Please bear with me as I figure out the most streamlined way to do this! 
 
-~~This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.~~
-
-~~When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:~~
-
-```{r cars}
-summary(cars)
-```
-
-#### Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ## {.toc-ignore}
 

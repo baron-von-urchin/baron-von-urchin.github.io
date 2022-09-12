@@ -47,6 +47,19 @@ Reeves L., and Freedman R. </p>
 - <p>We’re gonna need a bigger boat: Gentle giants return to Channel Islands National Marine Sanctuary.<br>
   [Office of National Marine Sanctuaries - Webstory](https://sanctuaries.noaa.gov/news/may19/basking-shark-tagging-channel-islands-national-marine-sanctuary.html){target="blank"}</p>
   
+### `r fa(name="comments")` <font color = "#2596be"> Recorded talks </font>
+
+![](./images/PSA_2021.png)
+[Hello darkness: red algal patch dynamics on temperate rocky reefs](https://www.youtube.com/watch?v=hA7yh_ZiopM){target="blank"}
+
+This talk, about a series of clearing experiments conducted in San Diego and Monterey, was presented to the Phycological Society of America's annual meeting in 2021
+
+![](./images/WSN_2020.png)
+[Return of the King: what can acoustic telemtry tell us about the reocvery of giant sea bass (*Stereolepis gigas*)](https://www.youtube.com/watch?v=GGFxF1PAvj0&t=6s){target="blank"}
+
+This talk was presented to the Western Society of Naturalist's annual meeting in 2020 regarding our [recent GSB publication](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfb.15181){target="blank"}
+
+
 ## {.toc-ignore}
 
 ***
