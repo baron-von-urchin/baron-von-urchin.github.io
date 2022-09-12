@@ -47,7 +47,7 @@ Reeves L., and Freedman R. </p>
 - <p>We’re gonna need a bigger boat: Gentle giants return to Channel Islands National Marine Sanctuary.<br>
   [Office of National Marine Sanctuaries - Webstory](https://sanctuaries.noaa.gov/news/may19/basking-shark-tagging-channel-islands-national-marine-sanctuary.html){target="blank"}</p>
   
-### `r fa(name="comments")` <font color = "#2596be"> Recorded talks </font>
+### `r fa(name="video")` <font color = "#2596be"> Recorded talks </font>
 
 ![](./images/PSA_2021.png)
 [Hello darkness: red algal patch dynamics on temperate rocky reefs](https://www.youtube.com/watch?v=hA7yh_ZiopM){target="blank"}
