@@ -6,6 +6,8 @@ output: html_document
 library(fontawesome)
 ```
 
+***
+
 ![](./images/Sporophyll_banner.png){width=150%}
 
 *** 
