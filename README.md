@@ -28,3 +28,5 @@ This brings me to the _site.yml script. I have no idea how you would set up tabu
 
 Finally, I copied the "site_libs" folder and its contents from [FindingHal's repo](https://github.com/ecoquants/findinghal). Could just be a legacy, who knows. But the site works now, and that's all that matters. 
 
+
+p.s. this website is _awesome_: [**Convert Markdown to HTML**](https://markdowntohtml.com/){target="blank"}

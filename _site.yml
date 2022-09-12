@@ -27,6 +27,7 @@ output:
       version: 5
       # see themes at https://bootswatch.com
       bootswatch: flatly
-include: 
-    in_header: "_google-analytics.html"
-    css: styles.css
+    include: 
+      after_body: "_google-analytics.html"
+      #after_body: feets.html
+    css: bootstrap.css  
