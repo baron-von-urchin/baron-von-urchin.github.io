@@ -14,7 +14,7 @@ library(fontawesome)
 
 ## <font color = "#2596be"> Welcome to Baron von Urchin's personal website </font>
 
-<img align="left" width="200" height="250" style="padding-right: 20px" src="./images/front_image.png">
+<img align="left" width="250" height="250" style="padding-right: 20px" src="./images/Ego.jpeg">
 </img>
 
 <font size = "5"> My name is Pike Spector I am currently a marine scientist with [NOAA Olympic Coast National Marine Sanctuary](https://olympiccoast.noaa.gov/){target="blank"}. In my day job, I support research operations and data management for the sanctuary. Trained in kelp forest ecology, I'm passionate about marine science, phycology, conservation, restoration, and open data science.

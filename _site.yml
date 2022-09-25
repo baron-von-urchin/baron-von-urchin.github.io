@@ -29,8 +29,7 @@ output:
       # using bootstrap 4 with https://rstudio.github.io/bslib
       version: 5
       # see themes at https://bootswatch.com
-      bootswatch: zephyr
+      bootswatch: solar
     include: 
       after_body: "_google-analytics.html"
-      #after_body: feets.html
-    # css: bootstrap.css  
+      css: bootstrap.css  
