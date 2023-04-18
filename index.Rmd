@@ -17,7 +17,7 @@ library(fontawesome)
 <img align="left" width="250" height="250" style="padding-right: 20px" src="./images/Ego.jpeg">
 </img>
 
-<font size = "5"> My name is Pike Spector I am currently a marine scientist with [NOAA Olympic Coast National Marine Sanctuary](https://olympiccoast.noaa.gov/){target="blank"}. In my day job, I support research operations and data management for the sanctuary. Trained in kelp forest ecology, I'm passionate about marine science, phycology, conservation, restoration, and open data science.
+<font size = "5"> My name is Pike Spector and I'm passionate about marine science, phycology, conservation, restoration, and open data science. Trained in kelp forest ecology, I have a Masters of Science in Biology from San Diego State University, and a Bachelors of Science in Marine Biology from UC Santa Cruz. I'm currently on "sabbatical" right now, but very soon I'll be starting an exciting new position with a great agency in my home state of California. Stay tuned for more updates! 
 
 <br>
 
