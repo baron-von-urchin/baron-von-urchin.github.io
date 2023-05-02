@@ -2,22 +2,22 @@
 pagetitle: "Home"
 output: html_document
 ---
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 ```
 
-***
+------------------------------------------------------------------------
 
-![](./images/Sporophyll_banner.png){width=150%}
+![](./images/Sporophyll_banner.png){width="150%"}
 
-*** 
+------------------------------------------------------------------------
 
 ## <font color = "#2596be"> Welcome to Baron von Urchin's personal website </font>
 
-<img align="left" width="250" height="250" style="padding-right: 20px" src="./images/Ego.jpeg">
-</img>
+<img src="./images/Ego.jpeg" align="left" width="250" height="250" style="padding-right: 20px"/> </img>
 
-<font size = "5"> My name is Pike Spector and I'm passionate about marine science, phycology, conservation, restoration, and open data science. Trained in kelp forest ecology, I have a Masters of Science in Biology from San Diego State University, and a Bachelors of Science in Marine Biology from UC Santa Cruz. I'm currently on "sabbatical" right now, but very soon I'll be starting an exciting new position with a great agency in my home state of California. Stay tuned for more updates! 
+<font size = "5"> My name is Pike Spector and I'm passionate about marine science, phycology, conservation, restoration, and open data science. Trained in kelp forest ecology, I have a Masters of Science in Biology from San Diego State University, and a Bachelors of Science in Marine Biology from UC Santa Cruz. In my current capacity I serve as the Biodiversity Program Manager for [California's Ocean Protection Council](<https://www.opc.ca.gov/>). In this role I do my best to protect and conserve the state's rich and vibrant coastal ecosystems.
 
 <br>
 
@@ -26,21 +26,22 @@ For more information, visit the [About page](about_me.html) </font>
 <br>
 
 ## On this site you can also find links to my: </font>
-<font size= "5"> 
 
-1. [Research](research.html)
-2. [Publications](publications.html)
-3. [Example code](code.html)
-4. [Curriculum vitae](cv.html)
+<font size= "5">
 
+1.  [Research](research.html)
+2.  [Publications](publications.html)
+3.  [Example code](code.html)
+4.  [Curriculum vitae](cv.html)
 
 </font>
 
-***
+------------------------------------------------------------------------
 
 #### More resources:
-`r fa(name="twitter")` Check out [my twitter feed](https://twitter.com/BaronvonUrchin){target="blank"}  for more sci-comm!
+
+`r fa(name="twitter")` Check out [my twitter feed](https://twitter.com/BaronvonUrchin){target="blank"} for more sci-comm!
 
 `r fa(name="github")` For code, projects, and repos, check out my [Github profile](https://github.com/mspector13){target="blank"}
 
-`r fa(name="laptop")` For more information about my previous experience in graduate school, check out [Lower Case Science](https://lowercasescience.weebly.com/){target="blank"}, my deprecated science communication blog 
+`r fa(name="laptop")` For more information about my previous experience in graduate school, check out [Lower Case Science](https://lowercasescience.weebly.com/){target="blank"}, my deprecated science communication blog
